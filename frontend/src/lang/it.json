@@ -1,0 +1,86 @@
+{
+  "Common": {
+    "appName": "Diario del Paziente",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "delete": "Elimina",
+    "edit": "Modifica",
+    "close": "Chiudi",
+    "loading": "Caricamento...",
+    "error": "Si è verificato un errore",
+    "confirmDelete": "Sei sicuro di voler eliminare questo elemento?",
+    "language": "Lingua",
+    "logout": "Disconnetti",
+    "noData": "Nessun dato disponibile."
+  },
+  "Auth": {
+    "login": "Accedi",
+    "register": "Registrati",
+    "email": "Email",
+    "password": "Password",
+    "tagline": "Diario del paziente e archivio documenti online (Traduzione generata dall'intelligenza artificiale)"
+  },
+  "Dashboard": {
+    "menu": "Menu",
+    "selectedPatient": "Paziente selezionato",
+    "noSelectedPatient": "Nessun paziente selezionato",
+    "selectOrAddPatientHint": "Seleziona un paziente o aggiungine uno nuovo per gestire misurazioni ed eventi.",
+    "vitalMeasurements": "Parametri vitali",
+    "events": "Eventi"
+  },
+  "Patient": {
+    "patients": "Pazienti",
+    "selectPatient": "Seleziona paziente",
+    "addPatient": "Aggiungi paziente",
+    "editPatient": "Modifica paziente",
+    "deletePatient": "Elimina paziente",
+    "noPatients": "Nessun paziente ancora registrato.",
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "birthDate": "Data di nascita",
+    "patientId": "ID Paziente"
+  },
+  "Measurement": {
+    "title": "Parametri vitali",
+    "add": "Aggiungi misurazione",
+    "edit": "Modifica misurazione",
+    "save": "Salva misurazione",
+    "date": "Data della misurazione",
+    "noMeasurements": "Nessuna misurazione presente.",
+    "oxygenSaturation": "Saturazione di ossigeno",
+    "pulse": "Frequenza cardiaca",
+    "bloodPressure": {
+      "leftArm": "Pressione braccio sinistro",
+      "rightArm": "Pressione braccio destro",
+      "systolic": "Sistolica",
+      "diastolic": "Diastolica",
+      "leftSystolic": "Sistolica braccio sinistro",
+      "leftDiastolic": "Diastolica braccio sinistro",
+      "rightSystolic": "Sistolica braccio destro",
+      "rightDiastolic": "Diastolica braccio destro"
+    },
+    "notes": "Note"
+  },
+  "Event": {
+    "title": "Eventi",
+    "add": "Aggiungi evento",
+    "edit": "Modifica evento",
+    "save": "Salva evento",
+    "date": "Data dell'evento",
+    "text": "Descrizione dell'evento",
+    "noEvents": "Nessun evento presente.",
+    "files": "File",
+    "currentFiles": "File correnti",
+    "newFiles": "Nuovi file"
+  },
+  "Document": {
+    "title": "Visualizzatore documenti",
+    "open": "Apri documento",
+    "download": "Scarica",
+    "unsupported": "Questo tipo di file nero può essere visualizzato in anteprima.",
+    "openInNewTab": "Apri in una nuova scheda",
+    "imageAlt": "Immagine del documento caricato",
+    "videoNotSupported": "Il tuo browser non supporta la riproduzione video.",
+    "pdfTitle": "Documento PDF"
+  }
+}

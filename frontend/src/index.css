@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body,
+  #root {
+    min-height: 100%;
+    margin: 0;
+    background: #020617;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+  option {
+    background: #020617;
+    color: #e0f2fe;
+  }
+}
+
+@layer components {
+  .field {
+    @apply w-full rounded-xl border border-slate-700 bg-slate-950 px-4 py-3 text-slate-100 outline-none placeholder:text-slate-500 focus:border-sky-400;
+  }
+
+  .btn-primary {
+    @apply rounded-xl bg-sky-400 px-4 py-2 font-semibold text-slate-950 transition hover:bg-sky-300 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+
+  .btn-secondary {
+    @apply rounded-xl bg-orange-500 px-4 py-2 font-semibold text-white transition hover:bg-orange-400 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+}

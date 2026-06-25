@@ -1,0 +1,86 @@
+{
+  "Common": {
+    "appName": "Betegnapló",
+    "save": "Mentés",
+    "cancel": "Mégse",
+    "delete": "Törlés",
+    "edit": "Módosítás",
+    "close": "Bezárás",
+    "loading": "Betöltés...",
+    "error": "Hiba történt",
+    "confirmDelete": "Biztosan törlöd ezt az elemet?",
+    "language": "Nyelv",
+    "logout": "Kijelentkezés",
+    "noData": "Nincs megjeleníthető adat."
+  },
+  "Auth": {
+    "login": "Belépés",
+    "register": "Regisztráció",
+    "email": "Email",
+    "password": "Jelszó",
+    "tagline": "Online betegnapló és dokumentumtár"
+  },
+  "Dashboard": {
+    "menu": "Menü",
+    "selectedPatient": "Kiválasztott beteg",
+    "noSelectedPatient": "Nincs beteg kiválasztva",
+    "selectOrAddPatientHint": "Válassz beteget vagy adj hozzá újat a mérések és események kezeléséhez.",
+    "vitalMeasurements": "Vitális mérések",
+    "events": "Események"
+  },
+  "Patient": {
+    "patients": "Betegek",
+    "selectPatient": "Beteg kiválasztása",
+    "addPatient": "Beteg hozzáadása",
+    "editPatient": "Beteg módosítása",
+    "deletePatient": "Beteg törlése",
+    "noPatients": "Még nincs rögzített beteg.",
+    "firstName": "Keresztnév",
+    "lastName": "Vezetéknév",
+    "birthDate": "Születési dátum",
+    "patientId": "Beteg ID"
+  },
+  "Measurement": {
+    "title": "Vitális mérések",
+    "add": "Mérés hozzáadása",
+    "edit": "Mérés módosítása",
+    "save": "Mérés mentése",
+    "date": "Mérés időpontja",
+    "noMeasurements": "Nincs még mérés.",
+    "oxygenSaturation": "Oxigénszaturáció",
+    "pulse": "Pulzus",
+    "bloodPressure": {
+      "leftArm": "Bal kar vérnyomás",
+      "rightArm": "Jobb kar vérnyomás",
+      "systolic": "Szisztolés",
+      "diastolic": "Diasztolés",
+      "leftSystolic": "Bal kar szisztolés",
+      "leftDiastolic": "Bal kar diasztolés",
+      "rightSystolic": "Jobb kar szisztolés",
+      "rightDiastolic": "Jobb kar diasztolés"
+    },
+    "notes": "Megjegyzés"
+  },
+  "Event": {
+    "title": "Események",
+    "add": "Esemény hozzáadása",
+    "edit": "Esemény módosítása",
+    "save": "Esemény mentése",
+    "date": "Esemény időpontja",
+    "text": "Esemény leírása",
+    "noEvents": "Nincs még esemény.",
+    "files": "Fájlok",
+    "currentFiles": "Jelenlegi fájlok",
+    "newFiles": "Új fájlok"
+  },
+  "Document": {
+    "title": "Dokumentum megtekintése",
+    "open": "Dokumentum megnyitása",
+    "download": "Letöltés",
+    "unsupported": "Ez a fájltípus nem jeleníthető meg előnézetben.",
+    "openInNewTab": "Megnyitás új lapon",
+    "imageAlt": "Feltöltött dokumentum képe",
+    "videoNotSupported": "A böngésződ nem támogatja a videó lejátszását.",
+    "pdfTitle": "PDF dokumentum"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "Common": {
+    "appName": "Patient Diary",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "confirmDelete": "Are you sure you want to delete this item?",
+    "language": "Language",
+    "logout": "Logout",
+    "noData": "No data available."
+  },
+  "Auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "tagline": "Online patient diary and document library"
+  },
+  "Dashboard": {
+    "menu": "Menu",
+    "selectedPatient": "Selected patient",
+    "noSelectedPatient": "No patient selected",
+    "selectOrAddPatientHint": "Select a patient or add a new one to manage measurements and events.",
+    "vitalMeasurements": "Vital measurements",
+    "events": "Events"
+  },
+  "Patient": {
+    "patients": "Patients",
+    "selectPatient": "Select patient",
+    "addPatient": "Add patient",
+    "editPatient": "Edit patient",
+    "deletePatient": "Delete patient",
+    "noPatients": "No patients recorded yet.",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "birthDate": "Birth date",
+    "patientId": "Patient ID"
+  },
+  "Measurement": {
+    "title": "Vital measurements",
+    "add": "Add measurement",
+    "edit": "Edit measurement",
+    "save": "Save measurement",
+    "date": "Measurement date",
+    "noMeasurements": "No measurements yet.",
+    "oxygenSaturation": "Oxygen saturation",
+    "pulse": "Pulse",
+    "bloodPressure": {
+      "leftArm": "Left arm blood pressure",
+      "rightArm": "Right arm blood pressure",
+      "systolic": "Systolic",
+      "diastolic": "Diastolic",
+      "leftSystolic": "Left arm systolic",
+      "leftDiastolic": "Left arm diastolic",
+      "rightSystolic": "Right arm systolic",
+      "rightDiastolic": "Right arm diastolic"
+    },
+    "notes": "Notes"
+  },
+  "Event": {
+    "title": "Events",
+    "add": "Add event",
+    "edit": "Edit event",
+    "save": "Save event",
+    "date": "Event date",
+    "text": "Event description",
+    "noEvents": "No events yet.",
+    "files": "Files",
+    "currentFiles": "Current files",
+    "newFiles": "New files"
+  },
+  "Document": {
+    "title": "Document viewer",
+    "open": "Open document",
+    "download": "Download",
+    "unsupported": "This file type cannot be previewed.",
+    "openInNewTab": "Open in new tab",
+    "imageAlt": "Uploaded document image",
+    "videoNotSupported": "Your browser does not support video playback.",
+    "pdfTitle": "PDF document"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "Common": {
+    "appName": "Patiententagebuch",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "close": "Schließen",
+    "loading": "Laden...",
+    "error": "Etwas ist schiefgelaufen",
+    "confirmDelete": "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten?",
+    "language": "Sprache",
+    "logout": "Abmelden",
+    "noData": "Keine Daten verfügbar."
+  },
+  "Auth": {
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "tagline": "Online-Patiententagebuch und Dokumentenbibliothek (KI-generierte Übersetzung)"
+  },
+  "Dashboard": {
+    "menu": "Menü",
+    "selectedPatient": "Ausgewählter Patient",
+    "noSelectedPatient": "Kein Patient ausgewählt",
+    "selectOrAddPatientHint": "Wählen Sie einen Patienten aus oder fügen Sie einen neuen hinzu, um Messungen und Ereignisse zu verwalten.",
+    "vitalMeasurements": "Vitalwerte",
+    "events": "Ereignisse"
+  },
+  "Patient": {
+    "patients": "Patienten",
+    "selectPatient": "Patient auswählen",
+    "addPatient": "Patient hinzufügen",
+    "editPatient": "Patient bearbeiten",
+    "deletePatient": "Patient löschen",
+    "noPatients": "Noch keine Patienten erfasst.",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "birthDate": "Geburtsdatum",
+    "patientId": "Patienten-ID"
+  },
+  "Measurement": {
+    "title": "Vitalwerte",
+    "add": "Messung hinzufügen",
+    "edit": "Messung bearbeiten",
+    "save": "Messung speichern",
+    "date": "Messdatum",
+    "noMeasurements": "Noch keine Messungen vorhanden.",
+    "oxygenSaturation": "Sauerstoffsättigung",
+    "pulse": "Puls",
+    "bloodPressure": {
+      "leftArm": "Blutdruck linker Arm",
+      "rightArm": "Blutdruck rechter Arm",
+      "systolic": "Systolisch",
+      "diastolic": "Diastolisch",
+      "leftSystolic": "Systolisch (linker Arm)",
+      "leftDiastolic": "Diastolisch (linker Arm)",
+      "rightSystolic": "Systolisch (rechter Arm)",
+      "rightDiastolic": "Diastolisch (rechter Arm)"
+    },
+    "notes": "Notizen"
+  },
+  "Event": {
+    "title": "Ereignisse",
+    "add": "Ereignis hinzufügen",
+    "edit": "Ereignis bearbeiten",
+    "save": "Ereignis speichern",
+    "date": "Ereignisdatum",
+    "text": "Ereignisbeschreibung",
+    "noEvents": "Noch keine Ereignisse vorhanden.",
+    "files": "Dateien",
+    "currentFiles": "Aktuelle Dateien",
+    "newFiles": "Neue Dateien"
+  },
+  "Document": {
+    "title": "Dokumentenanzeige",
+    "open": "Dokument öffnen",
+    "download": "Herunterladen",
+    "unsupported": "Für diesen Dateityp ist keine Vorschau verfügbar.",
+    "openInNewTab": "In neuem Tab öffnen",
+    "imageAlt": "Hochgeladenes Dokumentenbild",
+    "videoNotSupported": "Ihr Browser unterstützt die Videowiedergabe nicht.",
+    "pdfTitle": "PDF-Dokument"
+  }
+}
